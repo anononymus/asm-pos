@@ -5,8 +5,7 @@ This repository contains pre-trained model for Assamese POS tagging based on Fla
 
 ## How to run
 
-Download the model from the link.
-
+Download the pre-trained model from the link- https://drive.google.com/file/d/1QGR0zlf4adfxPRJwStbHyNPfpu4upWf7/view?usp=sharing
 
 ```
 from flair.models import SequenceTagger
