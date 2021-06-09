@@ -7,11 +7,12 @@ This repository contains pre-trained model for Assamese POS tagging based on Fla
 
 Download the model from the link.
 
-### Load the tagger
+
 ```
 from flair.models import SequenceTagger
 from flair.data import  Sentence, Token
 
+# Load the tagger
 
 model = SequenceTagger.load('final-model.pt')
 
