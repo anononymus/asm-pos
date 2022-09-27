@@ -4,7 +4,7 @@
 This repository contains two pre-trained models for Assamese POS tagging- 
 
 1) IndicBERT is used to embed the sentence for training. It achieved F1-score of 72.93% in tagging. The link to the model- https://drive.google.com/file/d/1YZGmGTDJsFDZXZWaZLXEgYEAkuGsp0pc/view?usp=sharing
-2) FlairEmbeddings is used to embed the sentence for training. It achieved F1-score of 71.87% in tagging. The link to the model- https://drive.google.com/file/d/1QGR0zlf4adfxPRJwStbHyNPfpu4upWf7/view?usp=sharing
+2) FlairEmbeddings is used to embed the sentence for training. It achieved F1-score of 74.62% in tagging. The link to the model- MuRIL https://drive.google.com/file/d/1-H9TQ1jxdLK_7LmYX0bdFDoKXKazq_lp/view?usp=sharing
 
 Assamese Monolingual Text Corpus ILCI-II which is acquired form TDIL to train the model. 
 
