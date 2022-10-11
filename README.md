@@ -10,7 +10,7 @@ Assamese Monolingual Text Corpus ILCI-II which is acquired form TDIL to train th
 
 ## How to run
 
-Download the pre-trained model from the [link](https://drive.google.com/file/d/1QGR0zlf4adfxPRJwStbHyNPfpu4upWf7/view?usp=sharing)
+<!-- Download the pre-trained model from the [link](https://drive.google.com/file/d/1QGR0zlf4adfxPRJwStbHyNPfpu4upWf7/view?usp=sharing) -->
 
 ```
 from flair.models import SequenceTagger
